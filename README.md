@@ -1,4 +1,3 @@
-# 8-bit-Approximate-Multiplier-
 # 8-bit Approximate Multiplier using Verilog
 
 ## Overview
